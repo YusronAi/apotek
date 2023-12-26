@@ -1,0 +1,10 @@
+CRITICAL - 2023-11-02 07:17:42 --> Invalid file: "galon.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('galon.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('galon', [], true)
+ 3 APPPATH\Controllers\Home.php(14): view('galon')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->galon()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\posyandu\\public\\index.php')

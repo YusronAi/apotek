@@ -1,0 +1,537 @@
+CRITICAL - 2023-12-26 02:00:52 --> Call to a member function countAllResults() on array
+in APPPATH\Controllers\Home.php on line 66.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:23:18 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(84): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:23:45 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(84): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:24:30 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(84): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:28:44 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(84): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:29:29 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(84): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:30:32 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(83): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:31:14 --> Undefined variable $jumlah
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 APPPATH\Views\dashboard\dashboardid.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jumlah', 'C:\\xampp\\htdocs\\Apotek\\app\\Views\\dashboard\\dashboardid.php', 67)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Apotek\\app\\Views\\dashboard\\dashboardid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 5 APPPATH\Controllers\Home.php(78): view('dashboard/dashboardid', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:32:32 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:33:51 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:34:18 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:49:18 --> Undefined variable $jumlah
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 APPPATH\Views\dashboard\dashboardid.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jumlah', 'C:\\xampp\\htdocs\\Apotek\\app\\Views\\dashboard\\dashboardid.php', 67)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Apotek\\app\\Views\\dashboard\\dashboardid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 5 APPPATH\Controllers\Home.php(83): view('dashboard/dashboardid', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:49:54 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(84): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:50:35 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+ERROR - 2023-12-26 02:54:43 --> mysqli_sql_exception: Column 'id_obat' in where clause is ambiguous in C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `harga`\n...', 0)
+#1 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `harga`\n...')
+#2 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `harga`\n...')
+#3 C:\xampp\htdocs\Apotek\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`\n...', Array, false)
+#4 C:\xampp\htdocs\Apotek\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Apotek\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\Apotek\app\Models\penjualanDetailModel.php(47): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\Apotek\app\Controllers\Home.php(97): App\Models\penjualanDetailModel->getHarga('1')
+#8 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(942): App\Controllers\Home->saveDetail()
+#9 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\Apotek\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\Apotek\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-12-26 02:54:43 --> Column 'id_obat' in where clause is ambiguous
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`
+FROM `penjualan_detail`, `obat`
+WHERE `id_obat` = :id_obat:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\penjualanDetailModel.php(47): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\Home.php(97): App\Models\penjualanDetailModel->getHarga('1')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->saveDetail()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+ERROR - 2023-12-26 02:54:54 --> mysqli_sql_exception: Column 'id_obat' in where clause is ambiguous in C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `harga`\n...', 0)
+#1 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `harga`\n...')
+#2 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `harga`\n...')
+#3 C:\xampp\htdocs\Apotek\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`\n...', Array, false)
+#4 C:\xampp\htdocs\Apotek\system\Model.php(871): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Apotek\app\Models\penjualanDetailModel.php(47): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\Apotek\app\Controllers\Home.php(97): App\Models\penjualanDetailModel->getHarga('1')
+#7 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(942): App\Controllers\Home->saveDetail()
+#8 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Apotek\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Apotek\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-12-26 02:54:54 --> Column 'id_obat' in where clause is ambiguous
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`
+FROM `penjualan_detail`, `obat`
+WHERE `id_obat` = :id_obat:', [...], false)
+ 2 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Models\penjualanDetailModel.php(47): CodeIgniter\Model->__call('get', [])
+ 4 APPPATH\Controllers\Home.php(97): App\Models\penjualanDetailModel->getHarga('1')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->saveDetail()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+ERROR - 2023-12-26 02:55:02 --> mysqli_sql_exception: Column 'id_obat' in where clause is ambiguous in C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `harga`\n...', 0)
+#1 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `harga`\n...')
+#2 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `harga`\n...')
+#3 C:\xampp\htdocs\Apotek\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`\n...', Array, false)
+#4 C:\xampp\htdocs\Apotek\system\Model.php(871): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Apotek\app\Models\penjualanDetailModel.php(47): CodeIgniter\Model->__call('get', Array)
+#6 C:\xampp\htdocs\Apotek\app\Controllers\Home.php(97): App\Models\penjualanDetailModel->getHarga('1')
+#7 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(942): App\Controllers\Home->saveDetail()
+#8 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\Apotek\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\Apotek\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2023-12-26 02:55:02 --> Column 'id_obat' in where clause is ambiguous
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`
+FROM `penjualan_detail`, `obat`
+WHERE `id_obat` = :id_obat:', [...], false)
+ 2 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Models\penjualanDetailModel.php(47): CodeIgniter\Model->__call('get', [])
+ 4 APPPATH\Controllers\Home.php(97): App\Models\penjualanDetailModel->getHarga('1')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->saveDetail()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:55:34 --> Object of class App\Models\penjualanDetailModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:58:44 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 02:59:01 --> Object of class CodeIgniter\Database\MySQLi\Builder could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:00:59 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:04:28 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:05:43 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:07:03 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:11:14 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(81): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:13:00 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(82): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:14:50 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(81): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:16:02 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(81): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:16:13 --> Object of class App\Models\obatModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(81): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:16:28 --> Array to string conversion
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 APPPATH\Views\dashboard\dashboardid.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\Apotek\\app\\Views\\dashboard\\dashboardid.php', 67)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Apotek\\app\\Views\\dashboard\\dashboardid.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 5 APPPATH\Controllers\Home.php(81): view('dashboard/dashboardid', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 03:17:58 --> Object of class App\Models\obatModel could not be converted to string
+in APPPATH\Views\dashboard\dashboardid.php on line 67.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboardid', [], true)
+ 4 APPPATH\Controllers\Home.php(81): view('dashboard/dashboardid', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+ERROR - 2023-12-26 03:19:45 --> mysqli_sql_exception: Not unique table/alias: 'obat' in C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `harga`\n...', 0)
+#1 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `harga`\n...')
+#2 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `harga`\n...')
+#3 C:\xampp\htdocs\Apotek\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`\n...', Array, false)
+#4 C:\xampp\htdocs\Apotek\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Apotek\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\Apotek\app\Models\obatModel.php(25): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\Apotek\app\Controllers\Home.php(67): App\Models\obatModel->getHarga()
+#8 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+#9 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\Apotek\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\Apotek\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-12-26 03:19:45 --> Not unique table/alias: 'obat'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`
+FROM `obat`, `obat`
+WHERE `id_obat` = :id_obat:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\obatModel.php(25): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\Home.php(67): App\Models\obatModel->getHarga()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+ERROR - 2023-12-26 03:20:15 --> mysqli_sql_exception: Not unique table/alias: 'obat' in C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\Apotek\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `harga`\n...', 0)
+#1 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `harga`\n...')
+#2 C:\xampp\htdocs\Apotek\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `harga`\n...')
+#3 C:\xampp\htdocs\Apotek\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`\n...', Array, false)
+#4 C:\xampp\htdocs\Apotek\system\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Apotek\system\BaseModel.php(662): CodeIgniter\Model->doFirst()
+#6 C:\xampp\htdocs\Apotek\app\Models\obatModel.php(25): CodeIgniter\BaseModel->first()
+#7 C:\xampp\htdocs\Apotek\app\Controllers\Home.php(67): App\Models\obatModel->getHarga()
+#8 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+#9 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\Apotek\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\Apotek\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\Apotek\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2023-12-26 03:20:15 --> Not unique table/alias: 'obat'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `harga`
+FROM `obat`, `obat`
+WHERE `id_obat` = :id_obat:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(264): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(662): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Models\obatModel.php(25): CodeIgniter\BaseModel->first()
+ 5 APPPATH\Controllers\Home.php(67): App\Models\obatModel->getHarga()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboardId()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 04:11:57 --> whereIn() expects $values to be of type array or closure
+in SYSTEMPATH\Database\BaseBuilder.php on line 939.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(826): CodeIgniter\Database\BaseBuilder->_whereIn('id_pelanggan', '1', false, 'AND ', null)
+ 2 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->whereIn('id_pelanggan', '1')
+ 3 APPPATH\Controllers\Home.php(113): CodeIgniter\Model->__call('whereIn', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->saveDetail()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 04:12:10 --> whereIn() expects $values to be of type array or closure
+in SYSTEMPATH\Database\BaseBuilder.php on line 939.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(826): CodeIgniter\Database\BaseBuilder->_whereIn('id_pelanggan', '1', false, 'AND ', null)
+ 2 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->whereIn('id_pelanggan', '1')
+ 3 APPPATH\Controllers\Home.php(111): CodeIgniter\Model->__call('whereIn', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->saveDetail()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 04:14:04 --> whereIn() expects $values to be of type array or closure
+in SYSTEMPATH\Database\BaseBuilder.php on line 939.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(826): CodeIgniter\Database\BaseBuilder->_whereIn('id_pelanggan', '1', false, 'AND ', null)
+ 2 SYSTEMPATH\Model.php(871): CodeIgniter\Database\BaseBuilder->whereIn('id_pelanggan', '1')
+ 3 APPPATH\Controllers\Home.php(111): CodeIgniter\Model->__call('whereIn', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->saveDetail()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 10:31:18 --> Trying to access array offset on value of type null
+in APPPATH\Views\layouts\topbar.php on line 28.
+ 1 APPPATH\Views\layouts\topbar.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Apotek\\app\\Views\\layouts\\topbar.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Apotek\\app\\Views\\layouts\\topbar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts/topbar.php', null, true)
+ 5 APPPATH\Views\layouts\template.php(26): CodeIgniter\View\View->include('layouts/topbar.php')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Apotek\\app\\Views\\layouts\\template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/template', [], true)
+ 9 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pelanggan/datapelanggan', [], true)
+10 APPPATH\Controllers\PelangganController.php(23): view('pelanggan/datapelanggan', [...])
+11 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PelangganController->pelanggan()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PelangganController))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 10:31:29 --> Trying to access array offset on value of type null
+in APPPATH\Views\layouts\topbar.php on line 28.
+ 1 APPPATH\Views\layouts\topbar.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Apotek\\app\\Views\\layouts\\topbar.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Apotek\\app\\Views\\layouts\\topbar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts/topbar.php', null, true)
+ 5 APPPATH\Views\layouts\template.php(26): CodeIgniter\View\View->include('layouts/topbar.php')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Apotek\\app\\Views\\layouts\\template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/template', [], true)
+ 9 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboard', [], true)
+10 APPPATH\Controllers\Home.php(62): view('dashboard/dashboard', [...])
+11 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboard()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
+CRITICAL - 2023-12-26 10:31:32 --> Trying to access array offset on value of type null
+in APPPATH\Views\layouts\topbar.php on line 28.
+ 1 APPPATH\Views\layouts\topbar.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Apotek\\app\\Views\\layouts\\topbar.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Apotek\\app\\Views\\layouts\\topbar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts/topbar.php', null, true)
+ 5 APPPATH\Views\layouts\template.php(26): CodeIgniter\View\View->include('layouts/topbar.php')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\Apotek\\app\\Views\\layouts\\template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/template', [], true)
+ 9 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('dashboard/dashboard', [], true)
+10 APPPATH\Controllers\Home.php(62): view('dashboard/dashboard', [...])
+11 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->dashboard()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\Apotek\\public\\index.php')
