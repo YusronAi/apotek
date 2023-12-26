@@ -64,7 +64,7 @@
             <?php endforeach; ?>
         </tbody>
     </table>
-    <div style="display : flex; align-items: center; justify-content : center;"><a href="/input-transaksi/<?= session()->getFlashdata('ip'); ?>"><button class="btn btn-success">Simpan</button></a><button class="btn btn-danger"><span><?= $harga; ?></span></button></div>
+    <div style="display : flex; align-items: center; justify-content : center;"><a href="/input-transaksi/<?= session()->getFlashdata('ip'); ?>"><button class="btn btn-success">Simpan</button></a></div>
 </div>
 
 <?= $this->endSection(); ?>

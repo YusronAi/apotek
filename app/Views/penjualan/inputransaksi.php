@@ -25,7 +25,7 @@
     <div class="col-12 mb-3">
         <div class="input-group">
             <div class="input-group-text">Total Transaksi</div>
-            <input type="number" name="total_transaksi" class="form-control" id="inlineFormInputGroupUsername" />
+            <input type="number" name="total_transaksi" class="form-control" value="<?= $totaltransaksi; ?>" id="inlineFormInputGroupUsername" />
         </div>
     </div>
 

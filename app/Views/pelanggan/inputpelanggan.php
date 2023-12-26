@@ -24,7 +24,10 @@
     <div class="col-12 mb-3">
         <div class="input-group">
             <div class="input-group-text">Jenis Kelamin</div>
-            <input type="text" name="jk" class="form-control" id="inlineFormInputGroupUsername" />
+            <select name="jk" id="">
+                <option value="LK">Laki Laki</option>
+                <option value="PR">Perempuan</option>
+            </select>
         </div>
     </div>
 

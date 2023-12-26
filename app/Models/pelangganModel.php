@@ -19,4 +19,8 @@ class pelangganModel extends Model
     {
         return $this->table('pelanggan')->where('id_pelanggan', $id);
     }
+
+    public function jumlah () {
+        return $this->table('pelanggan')->countAll();
+    }
 }

@@ -24,4 +24,8 @@ class obatModel extends Model
     {
         return $this->select('harga')->from('obat')->where('id_obat', 1)->first();
     }
+
+    public function jumlah () {
+        return $this->table('obat')->countAll();
+    }
 }

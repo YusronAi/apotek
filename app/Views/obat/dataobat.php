@@ -1,10 +1,9 @@
 <?= $this->extend('layouts/template'); ?>
 <?= $this->section('content'); ?>
 
-<a href="/input-obat"><button type="button" class="btn btn-outline-success mb-5">Input Obat</button></a>
-<br>
-
 <div class="container-fluid">
+<a href="/input-obat"><button type="button" class="btn btn-outline-success mb-3">Input Obat</button></a>
+<br>
     <?php if (session()->getFlashdata('pesan')) : ?>
         <div class="alert alert-success mb-3 text-center" role="alert">
             <?= session()->getFlashdata('pesan'); ?>

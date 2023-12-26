@@ -36,4 +36,8 @@ class penjualanModel extends Model
     {
         return $this->table('penjualan')->like('id_pelanggan', $id)->first();
     }
+
+    public function jumlah () {
+        return $this->table('penjualan')->countAll();
+    }
 }

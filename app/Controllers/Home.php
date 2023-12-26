@@ -53,10 +53,16 @@ class Home extends BaseController
     {
         $obat = $this->obatModel->AllObat();
         $pelanggan = $this->pelangganModel->All();
+        $jumlahPelanggan = $this->pelangganModel->jumlah();
+        $jumlahObat = $this->obatModel->jumlah();
+        $jumlahPenjualan = $this->penjualanModel->jumlah();
         $data = [
             'title' => "Dashboard",
             'obat' => $obat,
-            'pelanggan' => $pelanggan
+            'pelanggan' => $pelanggan,
+            'jumlahpelanggan' => $jumlahPelanggan,
+            'jumlahobat' => $jumlahObat,
+            'jumlahpenjualan' => $jumlahPenjualan
         ];
 
         return view('dashboard/dashboard', $data);
@@ -124,10 +130,13 @@ class Home extends BaseController
 
     public function inputTransaksi($id)
     {
-        $pelanggan = $this->pelangganModel->All();;
+        $pelanggan = $this->pelangganModel->All();
+        $bayar = $this->bayarModel->cari($id);
+        $totalTransaksi = $bayar['total_bayar'];
         $data = [
             'title' => 'Input Transaksi',
             'pelanggan' => $pelanggan,
+            'totaltransaksi' => $totalTransaksi,
             'id' => $id
         ];
 
@@ -142,6 +151,16 @@ class Home extends BaseController
             'total_transaksi' => $this->request->getVar('total_transaksi'),
             'total_bayar' => $this->request->getVar('total_bayar'),
         ]);
+
+
+        $ip = $this->request->getVar('id_pelanggan');
+        $totalTransaksi = $this->request->getVar('total_transaksi');
+        $total_bayar = $this->request->getVar('total_bayar');
+        $kembalian = $total_bayar - $totalTransaksi;
+
+        $this->bayarModel->whereIn('id_pelanggan', [$ip])->set(['kembalian' => $kembalian])->update();
+
+        session()->setFlashdata('pesan', 'Transaksi Berhasil');
 
         return redirect()->to('/data-penjualan');
     }
